@@ -1,6 +1,6 @@
 # Flask E-commerce Store
 
-## Visit Site Here
+## Visit The Site Here
 https://simplewebstoreif.onrender.com/
 
 ## How to Use
